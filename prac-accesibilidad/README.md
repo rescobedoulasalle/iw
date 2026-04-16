@@ -64,6 +64,7 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 | **WhatRuns** | Comprueba las tecnologías web del sitio | 2 |
 | **Informe** | El laboratorio tiene un README.md que detalla toda la práctica | 3 |
 | **Prueba[^1]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
+|  | **Total** | **20** |
 
 Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
 
