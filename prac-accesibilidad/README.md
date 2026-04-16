@@ -54,6 +54,7 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 ![image](curl_I.png)
 
 ## Rúbrica de calificación
+- La autocalificación es obligatoria.
 | ítem | Descripción | Puntaje |
 | :--- | :--- | :---: |
 | **TAW** | Uso de una herramienta para evaluar la accesibilidad web | 3 |
