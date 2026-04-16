@@ -3,7 +3,7 @@
 | :--- | :--- | :---: |
 | Richart Escobedo | Prueba de herramientas para evaluar accesibilidad | 100% |
 | Richart Escobedo | Elaboración del informe | 100% |
-| | Total | 100% |
+| | **Total** | **100%** |
 
 | Entregables | URL |
 | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ## Crear PDF a partir del README.md
 ```bash
-pandoc README.md -o DAW_lab01.pdf
+pandoc README.md -o IW_prac_accesibilidad.pdf
 ```
 
 ## Referencias
