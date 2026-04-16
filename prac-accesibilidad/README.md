@@ -8,7 +8,7 @@
 | Entregables | URL |
 | :--- | :--- |
 | Repositorio | https://github.com/rescobedoulasalle/iw.git |
-| Laboratorio | https://github.com/rescobedoulasalle/iw/prac-accesibilidad |
+| Laboratorio | https://github.com/rescobedoulasalle/iw/tree/main/prac-accesibilidad |
 | Informe | https://github.com/rescobedoulasalle/iw/prac-accesibilidad/IW_prac_accesibilidad.pdf |
 
 # Descripción de la práctica
@@ -22,7 +22,7 @@
 
 # Entregables
 - Informe de práctica en formato Markdown y PDF (enviar en la tarea de Classroom). [IW_prac_accesibilidad.pdf]
-- Repositorio de GitHub que contenga los archivos anexos de su investigación.
+- Repositorio de GitHub que contenga los archivos, anexos e imágenes de su investigación.
 
 ## Crear PDF a partir del README.md
 ```bash
@@ -55,11 +55,14 @@ pandoc README.md -o DAW_lab01.pdf
 ## Rúbrica de calificación
 | ítem | Descripción | Puntaje |
 | :--- | :--- | :---: |
-| Informe | El informe está completo, utiliza la plantilla y tiene un acabado impecable. | 5 |
-| Video | El video es preciso y muestra la ejecución del contenedor en la terminal y la navegación por la aplicación web. | 2 |
-| GitHub | El repositorio contiene todos los archivos necesarios para el despliegue y muestra un orden y un manejo acordes con los estándares de codificación. | 10 |
-| README | El laboratorio tiene un README.md  necesario para desplegar la aplicación web. | 3 |
-| Prueba[^2] | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo. | -0 |
+| TAW | Uso de una herramienta para evaluar la accesibilidad web | 3 |
+| Contraste de color | Realiza una prueba de contraste de color | 3 |
+| NoJS | Prueba de navegación y la funcionalidad sin JS | 3 |
+| Keyboard | Prueba de navegación sólo con el teclado | 3 |
+| Móvil | Prueba el acceso desde pantallas de dispositivos móviles | 3 |
+| README | El laboratorio tiene un README.md que detalla toda la práctica | 5 |
+| Prueba[^1] | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
 
-[^1]: Un video debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
-[^2]: El docente debe comprobar el cumplimiento de todas las consideraciones y recomendaciones, evidenciando el trabajo en equipo con responsabilidad y la práctica de la ética profesional, a fin de no aplicar ninguna penalidad.
+Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
+
+[^1]: El docente debe comprobar el cumplimiento de todas las consideraciones y recomendaciones, evidenciando el trabajo en equipo con responsabilidad y la práctica de la ética profesional, a fin de no aplicar ninguna penalidad.
