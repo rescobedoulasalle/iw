@@ -53,8 +53,7 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 ![image](WhatRuns.png)
 ![image](curl_I.png)
 
-## Rúbrica de calificación
-- La autocalificación es obligatoria.
+## Rúbrica de calificación[^1]
 | ítem | Descripción | Puntaje |
 | :--- | :--- | :---: |
 | **TAW** | Uso de una herramienta para evaluar la accesibilidad web | 3 |
@@ -64,9 +63,10 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 | **Móvil** | Prueba el acceso desde pantallas de dispositivos móviles | 3 |
 | **WhatRuns** | Comprueba las tecnologías web del sitio | 2 |
 | **Informe** | El laboratorio tiene un README.md que detalla toda la práctica | 3 |
-| **Prueba[^1]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
+| **Prueba[^2]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
 |  | **Total** | **20** |
 
 Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
 
-[^1]: El docente debe comprobar el cumplimiento de todas las consideraciones y recomendaciones, evidenciando el trabajo en equipo con responsabilidad y la práctica de la ética profesional, a fin de no aplicar ninguna penalidad.
+[^1]: La autocalificación es obligatoria.
+[^2]: El docente debe comprobar el cumplimiento de todas las consideraciones y recomendaciones, evidenciando el trabajo en equipo con responsabilidad y la práctica de la ética profesional, a fin de no aplicar ninguna penalidad.
