@@ -9,7 +9,7 @@
 | :--- | :--- |
 | Repositorio | https://github.com/rescobedoulasalle/iw.git |
 | Laboratorio | https://github.com/rescobedoulasalle/iw/tree/main/prac-accesibilidad |
-| Informe | https://github.com/rescobedoulasalle/iw/prac-accesibilidad/IW_prac_accesibilidad.pdf |
+| Informe | https://github.com/rescobedoulasalle/iw/blob/main/prac-accesibilidad/IW_prac_accesibilidad.pdf |
 
 # Descripción de la práctica
 - Utilizar la herramienta [TAW](https://www.tawdis.net/) o similares para evaluar la accesibilidad web (Perceptible, Operable, Comprensible, Robusto).
