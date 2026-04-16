@@ -35,6 +35,7 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 - [No Script](https://noscript.net/)
 - [Lynx text web browser](https://lynx.invisible-island.net/)
 - [Curl](https://curl.se/)
+- [Whatruns](https://chromewebstore.google.com/detail/whatruns/cmkdbmfndkfgebldhnkbfhlneefdaaip)
 - [Herramientas automáticas para evaluar y mejorar la accesibilidad web
 ](https://www.youtube.com/watch?v=Xxleh0L55_o&t=340s)
 - [Ejercicio del curso: análisis de la accesibilidad web con WAVE y de forma manual
