@@ -10,11 +10,11 @@
 | Informe | https://github.com/rescobedoulasalle/iw/prac-accesibilidad/IW_prac_accesibilidad.pdf |
 
 # Descripción de la práctica
-- Utilizar la herramienta https://www.tawdis.net/ para evaluar la accesibilidad web (Perceptible, Operable, Comprensible, Robusto).
-- Utilizar la herramienta https://webaim.org/resources/contrastchecker/ para realizar una prueba de contraste de color (baja visión, daltonismo).
+- Utilizar la herramienta [TAW](https://www.tawdis.net/) o similares para evaluar la accesibilidad web (Perceptible, Operable, Comprensible, Robusto).
+- Utilizar la herramienta [Contrast Checker](https://webaim.org/resources/contrastchecker/) para realizar una prueba de contraste de color (para personas con baja visión y daltonismo).
 - Desactivar JavaScript y probar la navegación y la funcionalidad.
 - Probar la navegación sólo con el teclado (enlaces, botones, formularios). [Foco][Orden]
-- Probar el acceso desde pantallas para dispositivos móviles (omisión de elementos del DOM).
+- Probar el acceso desde pantallas de dispositivos móviles (omisión de elementos del DOM).
 - Realizar el análisis, detallar y proponer la corrección de errores (agregar anexos).
 
 # Entregables
@@ -26,9 +26,20 @@
 pandoc README.md -o DAW_lab01.pdf
 ```
 
-## Referencias 
+## Referencias
+- [TAW](https://www.tawdis.net/)
+- [Contrast Checker](https://webaim.org/resources/contrastchecker/)
 - [Herramientas automáticas para evaluar y mejorar la accesibilidad web
 ](https://www.youtube.com/watch?v=Xxleh0L55_o&t=340s)
+- [Ejercicio del curso: análisis de la accesibilidad web con WAVE y de forma manual
+](https://www.youtube.com/watch?v=7_5uN9gh-tU&t=616s)
+- [Evaluación de la accesibilidad. Cuando los test automáticos son insuficientes
+](https://www.youtube.com/watch?v=msJI4Z5Ra0E&t=457s)
+- [Markup Validation Service](https://validator.w3.org/)
+- [CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [Mobile Checker Report](https://www.w3.org/2016/11/mobile-checker-disabled/)
+- [Link Checker](https://validator.w3.org/checklink)
+- [Validator and tools](https://www.w3.org/developers/tools/)
 
 
 ## Pantallas
