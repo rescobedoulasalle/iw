@@ -17,7 +17,7 @@
 - Desactivar JavaScript y probar la navegación y la funcionalidad.
 - Probar la navegación sólo con el teclado (enlaces, botones, formularios). [Foco][Orden]
 - Probar el acceso desde pantallas de dispositivos móviles (omisión de elementos del DOM).
-- Comprobar las tecnologías web del sitio web (servidor web, frameworks, lenguaje de programación y plataformas).
+- Comprobar las tecnologías web del sitio (servidor web, frameworks, lenguaje de programación y plataformas).
 - Realizar el análisis, detallar y proponer la corrección de errores (agregar anexos).
 
 # Entregables
@@ -55,13 +55,14 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 ## Rúbrica de calificación
 | ítem | Descripción | Puntaje |
 | :--- | :--- | :---: |
-| TAW | Uso de una herramienta para evaluar la accesibilidad web | 3 |
-| Contraste de color | Realiza una prueba de contraste de color | 3 |
-| NoJS | Prueba de navegación y la funcionalidad sin JS | 3 |
-| Keyboard | Prueba de navegación sólo con el teclado | 3 |
-| Móvil | Prueba el acceso desde pantallas de dispositivos móviles | 3 |
-| README | El laboratorio tiene un README.md que detalla toda la práctica | 5 |
-| Prueba[^1] | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
+| **TAW** | Uso de una herramienta para evaluar la accesibilidad web | 3 |
+| **Contraste de color** | Realiza una prueba de contraste de color | 3 |
+| **NoJS** | Prueba de navegación y la funcionalidad sin JS | 3 |
+| **Keyboard** | Prueba de navegación sólo con el teclado | 3 |
+| **Móvil** | Prueba el acceso desde pantallas de dispositivos móviles | 3 |
+| **WhatRuns** | Comprueba las tecnologías web del sitio | 2 |
+| **README** | El laboratorio tiene un README.md que detalla toda la práctica | 3 |
+| **Prueba[^1]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
 
 Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
 
