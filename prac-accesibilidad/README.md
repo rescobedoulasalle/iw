@@ -62,7 +62,7 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 | **Keyboard** | Prueba de navegación sólo con el teclado | 3 |
 | **Móvil** | Prueba el acceso desde pantallas de dispositivos móviles | 3 |
 | **WhatRuns** | Comprueba las tecnologías web del sitio | 2 |
-| **README** | El laboratorio tiene un README.md que detalla toda la práctica | 3 |
+| **Informe** | El laboratorio tiene un README.md que detalla toda la práctica | 3 |
 | **Prueba[^1]** | Se tomaron en cuenta todas las consideraciones y recomendaciones, lo que evidencia un trabajo en equipo | -0 |
 
 Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe entregarse la URL pública, sin que se solicite login alguno. Es recomendable incluir la URL tanto en el README.md como en el informe.
