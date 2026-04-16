@@ -49,8 +49,9 @@ pandoc README.md -o IW_prac_accesibilidad.pdf
 
 
 ## Pantallas
-![image](sitio1.png)
-![image](sitio2.png)
+![image](taw_resumen.png)
+![image](WhatRuns.png)
+![image](curl_I.png)
 
 ## Rúbrica de calificación
 | ítem | Descripción | Puntaje |
