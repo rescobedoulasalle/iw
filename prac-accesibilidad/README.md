@@ -1,7 +1,9 @@
 # Práctica : Accesibilidad web
 | Autores | Rol | Porcentaje |
 | :--- | :--- | :---: |
-| Richart Escobedo | Revisor y elaboración de toda la práctica. | 100% |
+| Richart Escobedo | Prueba de herramientas para evaluar accesibilidad | 100% |
+| Richart Escobedo | Elaboración del informe | 100% |
+| | Total | 100% |
 
 | Entregables | URL |
 | :--- | :--- |
@@ -15,6 +17,7 @@
 - Desactivar JavaScript y probar la navegación y la funcionalidad.
 - Probar la navegación sólo con el teclado (enlaces, botones, formularios). [Foco][Orden]
 - Probar el acceso desde pantallas de dispositivos móviles (omisión de elementos del DOM).
+- Comprobar las tecnologías web del sitio web (servidor web, frameworks, lenguaje de programación y plataformas).
 - Realizar el análisis, detallar y proponer la corrección de errores (agregar anexos).
 
 # Entregables
@@ -29,6 +32,9 @@ pandoc README.md -o DAW_lab01.pdf
 ## Referencias
 - [TAW](https://www.tawdis.net/)
 - [Contrast Checker](https://webaim.org/resources/contrastchecker/)
+- [No Script](https://noscript.net/)
+- [Lynx text web browser](https://lynx.invisible-island.net/)
+- [Curl](https://curl.se/)
 - [Herramientas automáticas para evaluar y mejorar la accesibilidad web
 ](https://www.youtube.com/watch?v=Xxleh0L55_o&t=340s)
 - [Ejercicio del curso: análisis de la accesibilidad web con WAVE y de forma manual
