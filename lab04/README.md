@@ -32,6 +32,7 @@
 - Las tablas producto de relaciones N:M deben estar ordenadas alfabeticamente (ejemplo: students_courses).
 
 - **Ejemplo para una tabla llamada students:**
+  
 | **students** |
 | :--- |
 | **id** |
