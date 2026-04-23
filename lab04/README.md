@@ -43,7 +43,7 @@
 | address |
 | phone |
 | note |
-| type_id |
+| user_id |
 | **status** |
 | **created** |
 | **modified** |
