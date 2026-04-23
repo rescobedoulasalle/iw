@@ -16,10 +16,10 @@
 - Crear virtual enviroment para un proyecto Python.
 - Crear un proyecto Django y una aplicación (Utilizar siglas para su proyecto).
 - Crear Modelos e interactuar con la base de datos.
-- Redefinir el método save() de los modelos para previos antes de guardar.
-- Redifinir el método que muestra los registros existentes.
-- Crear las funciones necesarias para lanzar restricciones desde el Modelo.
-- Capturar pantallas.
+- Redefinir el método **def save()** de los modelos para operaciones previas para guardar un registro.
+- Redifinir el método **def __str__()** que muestra determinados atributos de los registros existentes.
+- Crear las funciones necesarias para lanzar restricciones desde el Modelo (ejemplo: **validators=[validate_even])**).
+- Capturar pantallas de los auto CRUDs generados por Django Admin.
 - Elaborar README.md.
   
 # Entregables
@@ -72,3 +72,4 @@ Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe e
 - https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Server-side/Django/Models
 - https://www.w3schools.com/django/django_models.php
 - https://docs.djangoproject.com/en/6.0/topics/db/models/
+- https://www.wplogout.com/export-database-diagrams-erd-from-django/
