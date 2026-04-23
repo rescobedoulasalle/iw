@@ -30,10 +30,11 @@
 - La tablas deben estar en nomenclatura en inglés, nombre de tabla en plural, camelcase y todas deben tener los atributos id, status, created, modified, created_id, modified_id.
 - Los atributos de relaciones deben tener el nombre de la tabla principal seguido del '_id'
 - Las tablas producto de relaciones N:M deben estar ordenadas alfabeticamente (ejemplo: students_courses).
- 
+
+- **Ejemplo para una tabla llamada students:**
 | **students** |
 | :--- |
-| id |
+| **id** |
 | names |
 | fatherSurname |
 | motherSurname |
