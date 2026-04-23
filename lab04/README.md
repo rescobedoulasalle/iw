@@ -72,4 +72,6 @@ Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe e
 - https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Server-side/Django/Models
 - https://www.w3schools.com/django/django_models.php
 - https://docs.djangoproject.com/en/6.0/topics/db/models/
+- https://docs.djangoproject.com/en/6.0/ref/models/instances/#validating-objects
 - https://www.wplogout.com/export-database-diagrams-erd-from-django/
+- https://github.com/richarteq/django-enrollments
