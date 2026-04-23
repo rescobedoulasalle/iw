@@ -26,6 +26,27 @@
 - Informe de práctica en formato Markdown y PDF (enviar en la tarea de Classroom). [IW_lab04_django_admin.pdf]
 - Repositorio de GitHub que contenga los archivos, anexos e imágenes de su investigación.
 
+# Recomendaciones
+- La tablas deben estar en nomenclatura en inglés, nombre de tabla en plural, camelcase y todas deben tener los atributos id, status, created, modified, created_id, modified_id.
+- Los atributos de relaciones deben tener el nombre de la tabla principal seguido del '_id'
+- Las tablas producto de relaciones N:M deben estar ordenadas alfabeticamente (ejemplo: students_courses).
+ 
+| **students** |
+| id |
+| names |
+| fatherSurname |
+| motherSurname |
+| gender |
+| address |
+| phone |
+| note |
+| type_id |
+| **status** |
+| **created** |
+| **modified** |
+| **created_id** |
+| **modified_id** |
+
 ## Rúbrica de calificación[^1]
 | ítem | Descripción | Puntaje |
 | :--- | :--- | :---: |
@@ -43,3 +64,8 @@ Si el docente solicita un video, debe cargarse en Youtube o Drive y sólo debe e
 
 [^1]: La autocalificación es obligatoria.
 [^2]: El docente debe comprobar el cumplimiento de todas las consideraciones y recomendaciones, evidenciando el trabajo en equipo con responsabilidad y la práctica de la ética profesional, a fin de no aplicar ninguna penalidad.
+
+## Referencias
+- https://developer.mozilla.org/es/docs/Learn_web_development/Extensions/Server-side/Django/Models
+- https://www.w3schools.com/django/django_models.php
+- https://docs.djangoproject.com/en/6.0/topics/db/models/
