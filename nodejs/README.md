@@ -1,0 +1,2 @@
+- Universidades licenciadas
+- https://www.sunedu.gob.pe/lista-de-universidades-licenciadas/
