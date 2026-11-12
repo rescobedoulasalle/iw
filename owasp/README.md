@@ -1,4 +1,4 @@
-# 🔐 Investigación y Exposición: OWASP Top 10
+#  Investigación y Exposición: OWASP Top 10
 
 ## 1. Introducción
 
