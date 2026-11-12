@@ -1,4 +1,4 @@
-# 🔐 Reutilización del componente de autenticación de Django
+#  Reutilización del componente de autenticación de Django
 
 ## 1. Introducción
 
